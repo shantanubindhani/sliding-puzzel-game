@@ -1,6 +1,8 @@
 # sliding-puzzel-game
 its a 4x4 grid puzzel game, made with python, pygame.
 
+As the name says, main.py is the main file.
+
 Requirements :
   python interpreter 
   pygame library
